@@ -1,0 +1,2 @@
+rootProject.name = "DaShuai's Saying List"
+include ':app'
